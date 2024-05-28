@@ -1,4 +1,4 @@
-package Pesquisa;
+package List.Pesquisa;
 
 //pra usar o list, precisa importar
 import java.util.ArrayList;
